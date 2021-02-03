@@ -1,0 +1,14 @@
+div {
+    border: coral 3px solid;    
+}
+.inside-div {
+    padding: 10px;
+    background-color: hotpink;
+}
+.outside-div {
+    padding: 30px 0 30px 0; /* top right bottom left */
+    background-color: lightgreen;
+}
+p {
+    padding: 0 0 0 30px;
+}
